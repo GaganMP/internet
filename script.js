@@ -21,4 +21,4 @@ else{
 }
 
 window.addEventListener("online",messageOnline);
-window.addEventListener("offline",messageffline);
+window.addEventListener("offline",messageOffline);
